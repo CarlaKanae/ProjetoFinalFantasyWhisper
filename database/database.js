@@ -2,8 +2,8 @@ const Sequelize = require('sequelize');
 
 const connection = new Sequelize(
     'fantasywhisper',
-    'root',
-    '230586',
+    'rashomon',
+    '33611794',
     {
         host: 'localhost',
         dialect: 'mysql',
